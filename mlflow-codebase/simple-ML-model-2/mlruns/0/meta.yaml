@@ -1,0 +1,6 @@
+artifact_location: file:///config/workspace/mlflow-codebase/simple-ML-model-2/mlruns/0
+creation_time: 1694591529553
+experiment_id: '0'
+last_update_time: 1694591529553
+lifecycle_stage: active
+name: Default
