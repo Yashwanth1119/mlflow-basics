@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/04e46d1eac8a48e0b15011187ae93496/artifacts
+end_time: 1694589455184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04e46d1eac8a48e0b15011187ae93496
+run_name: unique-croc-6
+run_uuid: 04e46d1eac8a48e0b15011187ae93496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694589455168
+status: 3
+tags: []
+user_id: abc

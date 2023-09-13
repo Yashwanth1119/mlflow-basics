@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/715b167b16c344398c858c6147967c21/artifacts
+end_time: 1694589509616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 715b167b16c344398c858c6147967c21
+run_name: bald-rat-548
+run_uuid: 715b167b16c344398c858c6147967c21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694589509600
+status: 3
+tags: []
+user_id: abc
